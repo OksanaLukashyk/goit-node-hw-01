@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index",
@@ -17,6 +16,6 @@
   },
   "dependencies": {
     "commander": "^11.1.0",
-    "nanoid": "^5.0.4"
+    "nanoid": "^3.3.7"
   }
 }
